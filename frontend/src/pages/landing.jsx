@@ -13,7 +13,6 @@ export default function LandingPage() {
         </div>
         <div className="navList">
           <p
-            role="button"
             onClick={() => {
               router("/sdfn61");
             }}
